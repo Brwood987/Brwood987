@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my Github! 👋
 
-<!--
-**Brwood987/Brwood987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always open to collaboration! Contact me using the information below.
 
-Here are some ideas to get you started:
+## Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://raw.githubusercontent.com/Brwood987/BenXp/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Brwood987/BenXp/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/Brwood987/BenXp/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Brwood987/BenXp/master/generated/languages.svg#gh-light-mode-only)
+
+## :mortar_board: Education
+* SAIT Object Oriented Software Development (2024-Present)
+* SAIT -  Software Development(Graduate 2023)
+
+## 📫 How to reach me:
+**Email:** Brwood987@gmail.com
+**Linkedin** https://www.linkedin.com/in/ben-r-wood/
