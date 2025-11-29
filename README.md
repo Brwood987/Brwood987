@@ -12,7 +12,7 @@ I'm always open to collaboration! Contact me using the information below.
 
 ## :mortar_board: Education
 * SAIT Object Oriented Software Development (2024-Present)
-* SAIT -  Software Development(Graduate 2023)
+* SAIT -  Software Development(Graduated 2023)
 
 ## 📫 How to reach me:
 **Email:** Brwood987@gmail.com
